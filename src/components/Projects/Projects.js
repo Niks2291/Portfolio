@@ -46,7 +46,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={chatify}
               isBlog={false}
               title="DDoS attack and its Prevention"
               description="Led a cybersecurity project developing robust DDoS attack prevention measures, enhancing network resilience and mitigating potential disruptions. Implemented advanced defense strategies and collaborated with cross-functional teams to fortify the system against cyber threats. Successfully safeguarded critical infrastructure and maintained uninterrupted service availability."
